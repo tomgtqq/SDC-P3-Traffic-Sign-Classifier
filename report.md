@@ -127,7 +127,7 @@ I would choose some pre-train models to solve this task. So I choose the mobileN
 
 ### Test a Model on New Images
 
-#### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
+#### 1. Choose five German traffic signs found on the web
 
 Here are five German traffic signs that I found on the web:
 
@@ -144,4 +144,4 @@ print("The accuracy {:2.0f} %".format(m.result().numpy()*100) )
 The accuracy 100 %
 ```
 
-It's so exciting result, and I had to take so long time to train and fine-tuning hyper parameters. such as Bach Size and learning rate. But I figure out Model Architecture and Data with augmentation are key for this task.
+It's so exciting result, and I had to take so long time to train and fine-tuning hyperparameters. such as Bach Size and learning rate. But I figure out that Model Architecture and Data with augmentation are key for this task.
