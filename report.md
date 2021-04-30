@@ -54,7 +54,7 @@ As a first step, I decided to normalize the images to 0~1, then I decided to gen
 
 ### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model. 
 
-My build 2 network as final model:
+I builded 2 network as final model:
 
 ##### LeNet with additional 2 layers to improve network ability.
 
