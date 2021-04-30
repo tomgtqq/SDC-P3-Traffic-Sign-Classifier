@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./src/visualization.jpg "Visualization"
+[image1]: ./src/Visualization.jpg "Visualization"
 [image2]: ./src/leNet.jpg "LeNet"
 [image3]: ./src/train_supervise_learning.png "Train Fine-tuning"
 [image4]: ./src/result.jpg "result"
